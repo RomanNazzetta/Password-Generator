@@ -32,3 +32,16 @@
 // for (let i = 0; i < largeCountries.length; i++){
 //     console.log("- "+largeCountries[i])
 // }
+
+
+//PUSH & POP
+
+// let largeCountries = ["Tuvalu","India","USA","Indonesia","Monaco"]
+
+// largeCountries.pop()
+// largeCountries.push("Pakistan")
+// largeCountries.shift()
+// largeCountries.unshift("China")
+// console.log(largeCountries)
+
+//LOGICAL OPERATORS
