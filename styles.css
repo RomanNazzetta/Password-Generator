@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
-
 * {
 	box-sizing: border-box;
 }
@@ -10,7 +8,7 @@ body {
     background: linear-gradient(to right, #5D26C1, #a17fe0, #59C173);
 	color: #fff;
 	display: flex;
-	font-family: 'Muli', sans-serif;
+	font-family: Helvetica, sans-serif;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
