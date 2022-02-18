@@ -45,3 +45,10 @@
 // console.log(largeCountries)
 
 //LOGICAL OPERATORS
+let dayOfTheMonth = 13
+let weekday = "Friday"
+
+if( dayOfTheMonth === 13 && weekday === "Friday"){
+    console.log("😱")
+}
+
