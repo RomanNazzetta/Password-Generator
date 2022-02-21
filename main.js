@@ -17,6 +17,19 @@ const randomFunc = {
     number: getRandomNumber,
     symbol: getRandomSymbol
 }
+
+//EVENT LISTENER
+
+generateEl.addEventListener('click', () =>{
+    const length = +lengthEl.value;
+    const hasUpper = uppercaseEl.checked;
+    const hasLower = lowercaseEl.checked;
+    const hasNumber = numbersEl.checked;
+    const hasSymbol = symbolsEl.checked;
+
+    console.log(hasUpper, hasLower, hasNumber, hasSymbol, length)
+})
+
 //Generator functions
 
 function getRandomLower(){
