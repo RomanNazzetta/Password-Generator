@@ -1,3 +1,3 @@
 # Password-Generator
 #Deployed
-https://password-generator-project-roman.netlify.app
+https://password-generator-project-rn.netlify.app/
